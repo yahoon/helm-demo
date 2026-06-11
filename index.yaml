@@ -6,12 +6,12 @@ entries:
         - Initial release
     apiVersion: v2
     appVersion: 1.0.0
-    created: "2026-06-11T01:36:07.562764239Z"
+    created: "2026-06-11T01:48:02.581266Z"
     description: A Helm chart for Kubernetes
-    digest: ce26020ac5410cfb9c3671f859ae47b5233a4496c6fafa3aee142feea644a8e1
+    digest: 759ac3140aea737e80092968474c07d607b1985c2910fd5334f7725614df0231
     name: helm-demo
     type: application
     urls:
     - https://yahoon.github.io/helm-demo/helm-demo-1.0.0.tgz
     version: 1.0.0
-generated: "2026-06-11T01:36:07.562468246Z"
+generated: "2026-06-11T01:48:02.580888813Z"
